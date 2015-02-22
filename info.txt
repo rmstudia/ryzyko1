@@ -11,6 +11,7 @@ Sk - skutek - np 5, 10, 20 - koszt
 tabelka ryzyka
 
 
+opis ryzyka
 
 
 
