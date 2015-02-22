@@ -1,0 +1,20 @@
+
+
+R = Pr * Sk
+
+R - ryzyko
+Pr - prawdopodobienstwo ryzyka (0..1) np 0.1 0.5 0.7
+Sk - skutek - np 5, 10, 20 - koszt
+
+
+
+tabelka ryzyka
+
+
+
+
+
+
+
+
+
