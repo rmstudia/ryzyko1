@@ -14,8 +14,62 @@ tabelka ryzyka
 opis ryzyka
 
 
+Ryzyko techniczne
+- nowe technologie
+- dokladny opis zadan
+- zlozonosc systemu
+- zlozonosc sieci itd
+- adekwatne narzedzia (pisanie, kompilator, weryfikacja itd)
+- kwalifikacje czlonkow zespolu
+- zmiany terminow (np bo wakacje)
+- ryzyko oplacalnosci
+- zlecenie a strategia klienta (problemem sa projekty bez przelozenia na strategie rozwoju firmy)
+
+- ryzyko organizacyjne
+
+organizacja
+
+nieoczekiwane (zewnetrzne zaleznosci)
+- liczba podwykonawcow !
+
+Jakosc uslug serwisowych
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- 
+
+zadanie:
+
+cel
+
+zbudowac tabele ryzyka dla 2 wariantow
+
+wybrac 6 ryzyk i je estymowac
+
+podsumowanie
+
+minimalizaja ryzyka
 
 
 
